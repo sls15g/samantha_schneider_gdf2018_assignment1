@@ -1,0 +1,3 @@
+ISSUES.txt
+sls15g edited this page an hour ago · 2 revisions
+I did not run into many issues when attempting to download the programs. However, I did have trouble figuring out how to create new repositories and scenes. Tutorials would be extremely beneficial. One other problem I ran into when downloading these programs is that they are not running extremely fast on my computer. That could be because of the quality of my computer however. Audacity, GitHub desktop, Gimp, Audacity, and Unity are all successfully running on my computer, I am excited to begin game designing!
